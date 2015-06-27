@@ -23,3 +23,17 @@
 1. [github](http://www.github.com/hadera)
 2. [elad on github](http://www.github.com/eladrk)
 3. [w3schools](http://www.w3schools.com/)
+
+
+## html tags
+  1. html
+  2. body
+  3. script
+  4. p
+  5. img
+  6. h2
+  7. head
+  8. title
+
+## javascript
+1. alert
