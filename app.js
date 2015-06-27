@@ -1,0 +1,3 @@
+
+
+alert('from another file');
